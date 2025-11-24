@@ -1,9 +1,4 @@
 # Sales-Dash-Board-PowerBI
-Here’s a clean, professional **GitHub README** you can copy-paste and use for your **Sales Analysis Dashboard – Power BI** project.
-If you want it customized to match **your PBIX file’s visuals**, just tell me and I’ll tailor it perfectly.
-
----
-
 # 📊 Sales Analysis Dashboard – Power BI
 
 This repository contains a **Sales Analysis Dashboard** built using **Microsoft Power BI**.
